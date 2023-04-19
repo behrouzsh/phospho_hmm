@@ -1,0 +1,7 @@
+Package: Kinase_infrence
+Type: Package
+Title: infrence activityof kinases
+Version: 0.0.0.1
+Imports:
+	rlist
+RoxygenNote: 7.2.3
